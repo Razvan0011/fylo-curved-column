@@ -569,4 +569,10 @@ footer p {
         align-self: flex-end;
     }
 
+    /* Alert */
+.alert {
+    text-align: center;
+    display: none;
+}
+
 }
